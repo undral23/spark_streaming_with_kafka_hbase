@@ -51,7 +51,7 @@ $KAFKA_HOME/bin/kafka-console-producer.sh --bootstrap-server localhost:9092 --to
 
 
 ## Demo video
-
+https://web.microsoftstream.com/video/b6fc5647-5dc9-42dd-9793-54b3dd67c0e3
 
 ## References
 - https://github.com/twitterdev/twitter-api-java-sdk
